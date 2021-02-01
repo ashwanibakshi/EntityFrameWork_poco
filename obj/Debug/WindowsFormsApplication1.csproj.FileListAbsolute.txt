@@ -1,0 +1,13 @@
+E:\XAMARIN\2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\XAMARIN\2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\XAMARIN\2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\XAMARIN\2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\XAMARIN\2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\XAMARIN\2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\XAMARIN\2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\XAMARIN\2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+E:\XAMARIN\2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+E:\XAMARIN\2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+E:\XAMARIN\2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+E:\XAMARIN\2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\XAMARIN\2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
